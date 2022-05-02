@@ -19,7 +19,7 @@ const Navbar = () => {
                 </NavLink>
                 <div className='profile'>
                     <NavLink to='/SignIn'>
-                        <img src={avatar} alt='image'/>
+                        <img src={avatar} alt='rahul'/>
                     </NavLink>
                 </div>
             </div>
