@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "Id": "1",
+        "name": "Student Name",
+        "age": "10",
+        "school": "Model School",
+        "class": "3",
+        "divison": "A",
+        "status": "Active"
+    },
+    {
+        "id": 2,
+        "Id": "1",
+        "name": "Student Name",
+        "age": "10",
+        "school": "Model School",
+        "class": "3",
+        "divison": "A",
+        "status": "Active"
+    },
+    {
+        "id": 3,
+        "Id": "1",
+        "name": "Student Name",
+        "age": "10",
+        "school": "Model School",
+        "class": "3",
+        "divison": "A",
+        "status": "Active"
+    },
+    {
+        "id": 4,
+        "Id": "1",
+        "name": "Student Name",
+        "age": "10",
+        "school": "Model School",
+        "class": "3",
+        "divison": "A",
+        "status": "Active"
+    },
+    {
+        "id": 5,
+        "Id": "1",
+        "name": "Student Name",
+        "age": "10",
+        "school": "Model School",
+        "class": "3",
+        "divison": "A",
+        "status": "Active"
+    }
+]

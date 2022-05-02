@@ -1,0 +1,64 @@
+
+.navigation{
+    position: fixed;
+    width: 250px;
+    height: 100%;
+    background: #f9f9f9;
+    border-left: 10px solid #f9f9f9;
+    transition: 0.5s;
+    overflow: hidden;
+    border-right: 1px solid #000;
+}
+
+.navigation ul{
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    border-bottom: 1px solid #000;
+}
+
+.navigation ul li{
+    position: relative;
+    width: 100%;
+    list-style: none;
+}
+.navigation ul li a{
+    position: relative;
+    font-size: 14px;
+    width: 100%;
+    display: flex;
+    text-decoration: none;
+    color: #000;
+}
+
+.navigation .student li a{
+    display: flex;
+    justify-content: space-between;
+}
+
+.navigation .student li a{
+    font-size: 18px;
+}
+
+.navigation ul li a .icon{
+    position: relative;
+    display: block;
+    min-width: 50px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+}
+
+.navigation ul li a .icon ion-icon{
+    font-size: 24px;
+}
+.navigation ul li a .title{
+    position: relative;
+    display: block;
+    padding: 0 10px;
+    height: 50px;
+    line-height: 50px;
+    text-align: start;
+    white-space: nowrap;
+}

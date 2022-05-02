@@ -1,10 +1,15 @@
 import React from 'react'
+import Hero from '../components/Hero/Hero'
+import SideBar from '../components/Sidebar/SideBar'
 
 const Home = () => {
     return (
-        <div>
-            Home
+        <>
+        <div className='container'>
+            <SideBar/>
+            <Hero/>
         </div>
+        </>
     )
 }
 
